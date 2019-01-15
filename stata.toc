@@ -1,0 +1,4 @@
+v 3
+d Jan Ditzen, Heriot-Watt University, j.ditzen@hw.ac.uk, jan.ditzen.net
+p htmltab2stata Converting html tables into a Stata dataset.
+
