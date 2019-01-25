@@ -2,8 +2,6 @@
 ## Loading html tables into Stata.
 
 __Table of Contents__
-
-__Table of Contents__
 1. [Syntax](#1-syntax)
 2. [Options](#2-options)
 3. [Description](#3-description)
@@ -25,11 +23,11 @@ htmltab2stata  , url(_url_) [tablenumber(_integer_) firstrow href]
 
 **firstrow** Use firstrow of table as variable names.
 
-**href** Links enclosed in **<a href=....></a>** are added to the content transferred to Stata.
+**href** Links enclosed in `<a href=....></a>` are added to the content transferred to Stata.
 
 # 3. Description
 
-**htmltab2stata** parses html code from websites. It detects tables enclosed with the html **<table>** environment and transforms the table into a Stata dataset. To do so, **htmltab2stata** parses the html code and uses **<tr>** as row identifiers and code enclosed in **<td>** as columns. It only transfers content which is not enclosed in **< >** to Stata, unless option **href** is used for links. Empty cells remain empty in the Stata dataset.
+**htmltab2stata** parses html code from websites. It detects tables enclosed with the html `<table>` environment and transforms the table into a Stata dataset. To do so, **htmltab2stata** parses the html code and uses `<tr>` as row identifiers and code enclosed in `<td>` as columns. It only transfers content which is not enclosed in `< >` to Stata, unless option **href** is used for links. Empty cells remain empty in the Stata dataset.
 
 # 4. Examples
 
