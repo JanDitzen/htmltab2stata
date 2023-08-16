@@ -6,7 +6,8 @@ __Table of Contents__
 2. [Options](#2-options)
 3. [Description](#3-description)
 4. [Examples](#4-examples)
-5. [About](#5-about)
+5. [How to install](#5-how-to-install)
+6. [About](#6-about)
 
 # 1. Syntax
 
