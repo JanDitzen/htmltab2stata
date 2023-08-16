@@ -1,4 +1,7 @@
 # htmltab2stata 
+
+![version](https://img.shields.io/github/v/release/janditzen/htmltab2stata) ![release](https://img.shields.io/github/release-date/janditzen/htmltab2stata)
+
 ## Loading html tables into Stata.
 
 __Table of Contents__
