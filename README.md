@@ -108,11 +108,19 @@ stata htmltab2stata , url(table.html) firstrow tablenumber(2) href
      +----------------------------------------------+
 ```
 
-# 5. About
+# 5. How to install
 
-Jan Ditzen (Heriot-Watt University)
+In Stata:
 
-Email: j.ditzen@hw.ac.uk
+```
+net install htmltab2stata, from(https://janditzen.github.io/htmltab2stata/)
+```
+
+# 6. About
+
+Jan Ditzen
+
+Email: jan.ditzen@unibz.it
 
 Web: www.jan.ditzen.net
 
