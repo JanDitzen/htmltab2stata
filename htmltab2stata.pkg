@@ -2,6 +2,6 @@ v 3
 d Converting html tables into a Stata dataset.
 d Jan Ditzen, Heriot-Watt University
 d Distribution-Date:  20190115
-f htmltab2stat.ado
-f htmltab2stat.sthlp
+f htmltab2stata.ado
+f htmltab2stata.sthlp
 
